@@ -6,7 +6,8 @@
 
 # Result
 
-![github-result](E:\桌面\锚地变化探测论文初稿\精写\改图\最终版\github-result.png)
+![github-result](https://github.com/user-attachments/assets/81d1e5b1-58ac-44ca-88bc-bbf5db4dd019)
+
 
 # Requirements
 
