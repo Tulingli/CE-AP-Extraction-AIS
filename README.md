@@ -1,10 +1,8 @@
 # CE-AP-Extraction-AIS
 
 # Algorithm schematic diagram
+![image](https://github.com/user-attachments/assets/de688fa5-0cbf-438f-bf15-a2ec063d290c)
 
-
-
-![image-20250327194652774](C:\Users\xxchao\AppData\Roaming\Typora\typora-user-images\image-20250327194652774.png)
 
 # Result
 
